@@ -4,12 +4,28 @@
 
 ## Features
 
-Full overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War. Raise an issue to notify about bugs.
+Full overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War.
 
-* Generic National Focus Tree replaced with historic.
-* Support for Democratic Republicans.
-* AI never joins the Axis/Comintern.
-* Civil War balance improved to extend the fighting until 1939.
+* Vanilla National Unity reduced.
+* Vanilla War Support increased.
+* Generic National Focus Tree replaced with historic events:
+  * Empower Anarchists to radically increase Communist support at the expense of National Unity.
+  * Optimize the Francoist military-industrial complex to launch an offensive.
+  * Surpress dissent to trade manpower for National Unity.
+  * Declare pennisular war goals against Portugal.
+  * Choose the third option: Stage a democratic uprising after the Civil War.
+* War participation is historical:
+  * AI never joins the Axis/Comintern.
+  * Joining a belligerent faction results in invasion.
+* Civil War balance improved:
+  * Starting manpower increased.
+  * War continues until 1939.
+* Improved national advisors:
+  * [Manuel Hedilla](https://en.wikipedia.org/wiki/Manuel_Hedilla): Increases Facist support, decreases national unity.
+  * [Lluís Companys](https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys): More radically increases democratic support, but executed after the war.
+  * [Anselmo Lorenzo](https://en.wikipedia.org/wiki/Anselmo_Lorenzo): Increases Communist support and national unity.
+  
+> Raise an [issue](https://github.com/kghamilton89/guerra-civil-espanola/issues/new) to report crashes or bugs.
 
 ## Download Instructions
 
