@@ -6,10 +6,11 @@
 
 Full overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War.
 
+* Topical load screen images.
 * Vanilla National Unity reduced.
 * Vanilla War Support increased.
 * Generic National Focus Tree replaced with historic events:
-  * Empower Anarchists to radically increase Communist support at the expense of National Unity.
+  * Empower Anarchists to radically increase Communist support at the expense of factory output.
   * Optimize the Francoist military-industrial complex to launch an offensive.
   * Surpress dissent to trade manpower for National Unity.
   * Declare pennisular war goals against Portugal.
