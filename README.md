@@ -24,7 +24,6 @@ Full overhaul of Spain to improve gameplay and historical accuracy during the Sp
 * Improved national advisors:
   * [Manuel Hedilla](https://en.wikipedia.org/wiki/Manuel_Hedilla): Increases Facist support, decreases national unity.
   * [Lluís Companys](https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys): More radically increases democratic support, but executed after the war.
-  * [Anselmo Lorenzo](https://en.wikipedia.org/wiki/Anselmo_Lorenzo): Increases Communist support and National Unity.
   
 > Raise an [issue](https://github.com/kghamilton89/guerra-civil-espanola/issues/new) to report crashes or bugs.
 
