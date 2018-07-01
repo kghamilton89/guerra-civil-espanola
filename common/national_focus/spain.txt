@@ -3,13 +3,18 @@ focus_tree = {
 	
 	country = {
 		factor = 0
+
+	modifier = {
+	add = 10
+	tag = SPR
+	}
 	}
 	
 	default = no
 	reset_on_civilwar = no
 
 	focus = {
-		id = army_effort
+		id = expand_the_military-industrial_complex
 		icon = GFX_goal_generic_allies_build_infantry
 		x = 1
 		y = 0
@@ -18,110 +23,88 @@ focus_tree = {
 		available_if_capitulated = yes
 
 		completion_reward = {
-			army_experience = 5
+			army_experience = 10
 			add_tech_bonus = {
 				name = land_doc_bonus
 				bonus = 0.5
-				uses = 1
+				uses = 2
 				category = land_doctrine
 			}
 		}
 	}
 
 	focus = {
-		id = equipment_effort
-		icon = GFX_goal_generic_small_arms
-		prerequisite = { focus = army_effort }
+		id = occupy_alcazar_fortress
+		icon = GFX_goal_generic_fortify_city
+		prerequisite = { focus = expand_the_military-industrial_complex }
 		x = -1
 		y = 1
-		relative_position_id = army_effort
+		relative_position_id = expand_the_military-industrial_complex
 		cost = 10
 
 		available_if_capitulated = yes
 
 		completion_reward = {
-			add_tech_bonus = {
-				name = infantry_artillery_bonus
-				bonus = 0.5
-				uses = 1
-				category = infantry_weapons
-				category = artillery
+			209 = {
+				if = {
+					limit = { is_controlled_by = ROOT }
+					add_building_construction = {
+						type = bunker
+						level = 5
+						province = 41
+						instant_build = yes
+					}
 			}
 		}
 	}
 
 	focus = {
-		id = motorization_effort
-		icon = GFX_goal_generic_army_motorized
-		prerequisite = { focus = army_effort }
-		bypass = { has_tech = motorised_infantry }
+		id = consolidate_leadership
+		icon = GFX_focus_generic_support_the_left_right
+		prerequisite = { focus = expand_the_military-industrial_complex }
 		x = 1
 		y = 1
-		relative_position_id = army_effort
+		relative_position_id = expand_the_military-industrial_complex
 		cost = 10
 
 		available_if_capitulated = yes
 
 		completion_reward = {
-			add_tech_bonus = {
-				name = motorized_bonus
-				bonus = 0.75
-				technology = motorised_infantry
+			add_political_power = 140
+			army_experience = 25
 			}
 		}
 	}
 
 	focus = {
-		id = doctrine_effort
-		icon = GFX_goal_generic_army_doctrines
-		prerequisite = { focus = army_effort }
+		id = seige_of_madrid
+		icon = GFX_goal_generic_propaganda
+		prerequisite = { focus = occupy_alcazar_fortress }
 		x = 0
-		y = 2
-		relative_position_id = army_effort
-		cost = 10
+		y = 1
+		relative_position_id = occupy_alcazar_fortress
+		cost = 20
 
 		available_if_capitulated = yes
 
 		completion_reward = {
-			army_experience = 5
+			army_experience = 50
 			add_tech_bonus = {
 				name = land_doc_bonus
 				bonus = 0.5
-				uses = 1
+				uses = 2
 				category = land_doctrine
 			}
 		}
 	}
 
 	focus = {
-		id = equipment_effort_2
-		icon = GFX_goal_generic_army_artillery
-		prerequisite = { focus = equipment_effort }
+		id = 
+		icon = 
+		prerequisite = { focus = consolidate_leadership }
 		x = 0
-		y = 2
-		relative_position_id = equipment_effort
-		cost = 10
-
-		available_if_capitulated = yes
-
-		completion_reward = {
-			add_tech_bonus = {
-				name = infantry_artillery_bonus
-				bonus = 0.5
-				uses = 1
-				category = infantry_weapons
-				category = artillery
-			}
-		}
-	}
-
-	focus = {
-		id = mechanization_effort
-		icon = GFX_goal_generic_build_tank
-		prerequisite = { focus = motorization_effort }
-		x = 0
-		y = 2
-		relative_position_id = motorization_effort
+		y = 1
+		relative_position_id = consolidate_leadership
 		cost = 10
 
 		available_if_capitulated = yes
@@ -132,28 +115,6 @@ focus_tree = {
 				ahead_reduction = 0.5
 				uses = 1
 				category = motorized_equipment
-			}
-		}
-	}
-
-	focus = {
-		id = doctrine_effort_2
-		icon = GFX_goal_generic_army_doctrines
-		prerequisite = { focus = doctrine_effort }
-		x = 0
-		y = 2
-		relative_position_id = doctrine_effort
-		cost = 10
-
-		available_if_capitulated = yes
-
-		completion_reward = {
-			army_experience = 5
-			add_tech_bonus = {
-				name = land_doc_bonus
-				bonus = 0.5
-				uses = 1
-				category = land_doctrine
 			}
 		}
 	}
@@ -205,7 +166,6 @@ focus_tree = {
 		id = special_forces
 		icon = GFX_goal_generic_special_forces
 		prerequisite = { focus = equipment_effort_3 }
-		prerequisite = { focus = doctrine_effort_2 }
 		prerequisite = { focus = armor_effort }
 		x = 1
 		y = 1
