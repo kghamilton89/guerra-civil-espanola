@@ -12,7 +12,7 @@ Full overhaul of Spain to improve gameplay and historical accuracy during the Sp
 * Generic National Focus Tree replaced with historic events:
   * Empower Anarchists to radically increase Communist support at the expense of factory output.
   * Optimize the Francoist military-industrial complex to launch an offensive.
-  * Surpress dissent to trade manpower for National Unity.
+  * Supress dissent to trade manpower for National Unity.
   * Declare pennisular war goals against Portugal.
   * Choose the third option: Stage a democratic uprising after the Civil War.
 * War participation is historical:
