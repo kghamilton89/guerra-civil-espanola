@@ -10,6 +10,7 @@ Full overhaul of Spain to improve gameplay and historical accuracy during the Sp
 * Add topical [quotes](localisation/loading_tips_l_english.yml).
 * Vanilla National Unity reduced.
 * Vanilla War Support increased.
+* Timeline begins with the signing of the [Spanish Constitution of 1931](https://en.wikipedia.org/wiki/Spanish_Constitution_of_1931).
 * Generic National Focus Tree replaced with historic events:
   * Empower Anarchists to radically increase Communist support at the expense of factory output.
   * Optimize the Francoist military-industrial complex to launch an offensive.
