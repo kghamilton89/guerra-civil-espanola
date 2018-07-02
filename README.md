@@ -39,7 +39,7 @@ Store `.mod` files in the applicable directory:
 
 If you do not have a `/mod` or `\mod` directory at the appropriate location, you need to create one.
 
-Clone `guerra-civil-espanola` repository into `/mod` directory. Select **Guerra Civil Española** on the **Mods** tab when you launch Hearts of Iron 4.
+Clone `guerra-civil-espanola` repository into the appropriate directory. Select **Guerra Civil Española** on the **Mods** tab when you launch Hearts of Iron 4.
 
 ![](./images/homescreen.png)
 
