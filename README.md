@@ -15,7 +15,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
   * Empower Anarchists to radically increase Communist support at the expense of factory output.
   * Optimize the Francoist military-industrial complex to launch an offensive war upon victory in Spain.
   * Supress dissent to trade manpower for National Unity as either the Facist or Communist government.
-  * Reignite [pennisular war](https://en.wikipedia.org/wiki/Peninsular_War) goals against Portugal.
+  * Reignite [pennisular war](https://en.wikipedia.org/wiki/Peninsular_War) goals against Portugal regardless of allegiance.
   * Choose the third option: Stage a democratic uprising after the Civil War.
 * World War II participation is historical:
   * AI never joins the Axis/Comintern.
