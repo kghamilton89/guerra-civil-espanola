@@ -7,7 +7,7 @@
 Full overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War in [Hearts of Iron IV](https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki).
 
 * Refactor [load screen](images/loadscreen-images/README.md) images.
-* Add topical [quotes](localisation/loading_tips_l_english.yml).
+* Topical load screen [quotes](localisation/loading_tips_l_english.yml).
 * Vanilla National Unity reduced.
 * Vanilla War Support increased.
 * Timeline begins with the signing of the [Spanish Constitution of 1931](https://en.wikipedia.org/wiki/Spanish_Constitution_of_1931).
