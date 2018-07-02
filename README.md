@@ -6,7 +6,8 @@
 
 Full overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War.
 
-* Topical load screen images.
+* Refactor [load screen](images/README.md) images.
+* Add topical [quotes](localisation/loading_tips_l_english.yml)
 * Vanilla National Unity reduced.
 * Vanilla War Support increased.
 * Generic National Focus Tree replaced with historic events:
