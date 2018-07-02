@@ -13,7 +13,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 * Timeline begins with the signing of the [Spanish Constitution of 1931](https://en.wikipedia.org/wiki/Spanish_Constitution_of_1931).
 * [Generic National Focus Tree](https://hoi4.paradoxwikis.com/Generic_national_focus_tree) replaced with historic events:
   * Empower Anarchists to radically increase Communist support at the expense of factory output.
-  * Optimize the Francoist military-industrial complex to launch an offensive war.
+  * Optimize the Francoist military-industrial complex to launch an offensive war upon victory in Spain.
   * Supress dissent to trade manpower for National Unity.
   * Reignite [pennisular war](https://en.wikipedia.org/wiki/Peninsular_War) goals against Portugal.
   * Choose the third option: Stage a democratic uprising after the Civil War.
