@@ -45,4 +45,4 @@ Clone `guerra-civil-espanola` repository into the applicable directory. Select *
 
 No Steam subscription is available yet, this mod is still in development.
 
-> Note that if you select the **Clear User Directory** option upon crash report, `.mod` files are deleted and need to be re-uploaded to the `/mod` or `\mod` directory.
+> Note that if you select the **Clear User Directory** option upon program crash, `.mod` files are deleted and need to be re-uploaded to the `/mod` or `\mod` directory.
