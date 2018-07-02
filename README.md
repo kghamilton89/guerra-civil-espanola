@@ -31,7 +31,7 @@ Full overhaul of Spain to improve gameplay and historical accuracy during the Sp
 
 ## Download Instructions
 
-Store mod files in the correct directory:
+Store `.mod` files in the applicable directory:
 
 * Windows: `C:\Users\<Username>\Documents\Paradox Interactive\Hearts of Iron IV\mod`
 * Mac OS: `~/Documents/Paradox Interactive/Hearts of Iron IV/mod`
