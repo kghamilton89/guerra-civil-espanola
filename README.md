@@ -23,7 +23,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 * Civil War balance improved:
   * Starting manpower increased.
   * War continues until 1939.
-* Improved national advisors:
+* Historical national advisors:
   * [Manuel Hedilla](https://en.wikipedia.org/wiki/Manuel_Hedilla): Increases Facist support, decreases national unity.
   * [Lluís Companys](https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys): More radically increases democratic support, but executed after the war.
   
