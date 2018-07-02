@@ -8,6 +8,8 @@
 
 ![](4.png)
 
+![](5.png)
+
 ![](6.png)
 
 ![](7.png)
@@ -15,7 +17,3 @@
 ![](8.png)
 
 ![](9.png)
-
-## New Homescreen Image
-
-![](5.png)
