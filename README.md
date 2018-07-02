@@ -4,7 +4,7 @@
 
 ## Features
 
-Full overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War.
+Full overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War in [Hearts of Iron IV](https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki).
 
 * Refactor [load screen](images/loadscreen-images/README.md) images.
 * Add topical [quotes](localisation/loading_tips_l_english.yml)
