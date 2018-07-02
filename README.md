@@ -22,7 +22,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
   * Joining a belligerent faction results in invasion.
 * Civil War balance improved:
   * Starting manpower increased.
-  * War starts in 1936 and continues until 1939 regardless of user action.
+  * War starts in 1936 regardless of user action and continues until at least 1939.
 * Historical national advisors:
   * [Manuel Hedilla](https://en.wikipedia.org/wiki/Manuel_Hedilla): Increases Facist support, decreases national unity.
   * [Lluís Companys](https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys): More radically increases democratic support, but executed after the war.
