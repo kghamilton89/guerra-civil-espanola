@@ -17,7 +17,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
   * Supress dissent to trade manpower for National Unity.
   * Reignite [pennisular war](https://en.wikipedia.org/wiki/Peninsular_War) goals against Portugal.
   * Choose the third option: Stage a democratic uprising after the Civil War.
-* War participation is historical:
+* World War II participation is historical:
   * AI never joins the Axis/Comintern.
   * Joining a belligerent faction results in invasion.
 * Civil War balance improved:
