@@ -37,7 +37,7 @@ Store `.mod` files in the applicable directory:
 * Mac OS: `~/Documents/Paradox Interactive/Hearts of Iron IV/mod`
 * Linux: `~/.local/share/Paradox Interactive/Hearts of Iron IV/mod`
 
-If you do not have a `/mod` directory at the appropriate location, you need to create one.
+If you do not have a `/mod` or `\mod` directory at the appropriate location, you need to create one.
 
 Clone `guerra-civil-espanola` repository into `/mod` directory. Select **Guerra Civil Española** on the **Mods** tab when you launch Hearts of Iron 4.
 
