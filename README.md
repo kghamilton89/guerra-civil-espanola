@@ -25,7 +25,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
   * War starts in 1936 regardless of user action and continues until at least 1939.
 * Historical national advisors:
   * [Manuel Hedilla](https://en.wikipedia.org/wiki/Manuel_Hedilla): Increases Facist support, decreases national unity.
-  * [Lluís Companys](https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys): More radically increases democratic support, but executed after the war.
+  * [Lluís Companys](https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys): More radically increases democratic support, but executed and removed after the war.
   
 > Raise an [issue](https://github.com/kghamilton89/guerra-civil-espanola/issues/new) to report crashes or bugs.
 
