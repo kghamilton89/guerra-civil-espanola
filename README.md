@@ -2,6 +2,10 @@
 
 ![](./images/spanish-civil-war.png)
 
+## History
+
+Spanish history begins in 1931. Other countries remain unmodified. While playing as a country other than Spain is possible, topical events are not written into the mod. 
+
 ## Features
 
 Overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War in [Hearts of Iron IV](https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki).
