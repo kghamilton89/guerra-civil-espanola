@@ -2,16 +2,12 @@
 
 ![](./images/spanish-civil-war.png)
 
-## History
-
-Spanish history begins in 1931. Other countries remain unmodified. While playing as a country other than Spain is possible, topical events are not written into the mod. 
-
 ## Features
 
 Overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War in [Hearts of Iron IV](https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki).
 
 * Refactor [load screen](images/loadscreen-images/README.md) images.
-* Topical load screen [quotes](localisation/loading_tips_l_english.yml).
+* Topical load screen [quotes](shared/spanish-civil-war-quotes.md).
 * Vanilla National Unity reduced.
 * Vanilla War Support increased.
 * Timeline begins with the signing of the [Spanish Constitution of 1931](https://en.wikipedia.org/wiki/Spanish_Constitution_of_1931).
@@ -21,9 +17,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
   * Supress dissent to trade manpower for National Unity as either the Facist or Communist government.
   * Reignite [pennisular war](https://en.wikipedia.org/wiki/Peninsular_War) goals against Portugal regardless of allegiance.
   * Choose the third option: Stage a democratic uprising after the Civil War.
-* World War II participation is historical:
-  * AI never joins the Axis/Comintern.
-  * Joining a belligerent faction results in invasion.
+* World War II participation is historical, joining a belligerent faction results in invasion.
 * Civil War balance improved:
   * Starting manpower increased.
   * War starts in 1936 regardless of user action and continues until at least 1939.
