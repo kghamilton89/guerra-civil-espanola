@@ -17,7 +17,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
   * Supress dissent to trade manpower for National Unity as either the Facist or Communist government.
   * Reignite [pennisular war](https://en.wikipedia.org/wiki/Peninsular_War) goals against Portugal regardless of allegiance.
   * Choose the third option: Stage a democratic uprising after the Civil War.
-* World War II participation is historical, joining a belligerent faction results in invasion.
+* World War II participation is historical, joining a belligerent faction results in a declaration of war and invasion.
 * Civil War balance improved:
   * Starting manpower increased.
   * War starts in 1936 regardless of user action and continues until at least 1939.
