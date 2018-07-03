@@ -10,7 +10,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 * Topical load screen [quotes](shared/spanish-civil-war-quotes.md).
 * Vanilla National Unity reduced.
 * Vanilla War Support increased.
-* Timeline begins with the signing of the [Spanish Constitution of 1931](https://en.wikipedia.org/wiki/Spanish_Constitution_of_1931).
+* Timeline begins with the signing of the [Spanish Constitution of 1931](https://en.wikipedia.org/wiki/Spanish_Constitution_of_1931). While possible to play as other countries without crashes, it is recommended to play as Spain. Historical events for other countries remain unmodified.
 * [Generic National Focus Tree](https://hoi4.paradoxwikis.com/Generic_national_focus_tree) replaced with historic events:
   * Empower Anarchists to radically increase Communist support at the expense of factory output.
   * Optimize the Francoist military-industrial complex to launch an offensive war upon victory in Spain.
