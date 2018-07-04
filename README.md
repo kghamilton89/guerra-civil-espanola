@@ -10,7 +10,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 * Topical load screen [quotes](shared/spanish-civil-war-quotes.md).
 * Vanilla starting scenarios replace with Spanish Civil War specific timelines:
   * **The Birth of the Second Republic** (September 12, 1931): The Spanish Constitution of 1931 is signed. King Alfonso XIII has abdicated and fled to France. Manuel Azaña Díaz has been given control of a minority government with the desperate goal of securing control of the fledging Republic.
-  * **A House of Cards** (January 1, 1936): The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military considering their own intervention.
+  * **A House of Cards** (January 1, 1936): The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military is considering their own intervention.
 * [Generic National Focus Tree](https://hoi4.paradoxwikis.com/Generic_national_focus_tree) replaced with historic events:
   * Empower Anarchists to radically increase Communist support at the expense of factory output.
   * Optimize the Francoist military-industrial complex to launch an offensive war upon victory in Spain.

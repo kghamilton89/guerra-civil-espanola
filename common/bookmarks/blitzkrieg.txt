@@ -1,13 +1,13 @@
 bookmarks = {
 	bookmark = {
 		name = "A House of Cards"
-		desc = "The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military considering their own intervention."
+		desc = "The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military is considering their own intervention."
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1939"
 		default_country = "SPR"
 	
 	    SPR={
-		history = "The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military considering their own intervention."
+		history = "The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military is considering their own intervention."
 		ideology = democratic
 		ideas = {
 			FRA_disjointed_government
