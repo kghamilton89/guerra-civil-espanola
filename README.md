@@ -8,9 +8,9 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 * Refactor [load screen](images/loadscreen-images/README.md) images.
 * Topical load screen [quotes](shared/spanish-civil-war-quotes.md).
-* Vanilla National Unity reduced.
-* Vanilla War Support increased.
-* Timeline begins with the signing of the [Spanish Constitution of 1931](https://en.wikipedia.org/wiki/Spanish_Constitution_of_1931). While possible to play as other countries without crashes, it is recommended to play as Spain. Historical events for other countries remain unmodified.
+* Vanilla starting scenarios replace with Spanish Civil War specific timelines:
+  * **The Birth of the Second Republic** (September 12, 1931): The Spanish Constitution of 1931 is signed. King Alfonso XIII has abdicated and fled to France. Manuel Azaña Díaz has been given control of a minority government with the desperate goal of securing control of the fledging Republic.
+  * **A House of Cards** (January 1, 1936): The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military considering their own intervention.
 * [Generic National Focus Tree](https://hoi4.paradoxwikis.com/Generic_national_focus_tree) replaced with historic events:
   * Empower Anarchists to radically increase Communist support at the expense of factory output.
   * Optimize the Francoist military-industrial complex to launch an offensive war upon victory in Spain.
@@ -18,9 +18,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
   * Reignite [pennisular war](https://en.wikipedia.org/wiki/Peninsular_War) goals against Portugal regardless of allegiance.
   * Choose the third option: Stage a democratic uprising after the Civil War.
 * World War II participation is historical, joining a belligerent faction results in a declaration of war and invasion.
-* Civil War balance improved:
-  * Starting manpower increased.
-  * War starts in 1936 regardless of user action and continues until at least 1939.
+* Balance improved so that war continues until 1939.
 * Historical national advisors:
   * [Manuel Hedilla](https://en.wikipedia.org/wiki/Manuel_Hedilla): Increases Facist support, decreases national unity.
   * [Lluís Companys](https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys): More radically increases democratic support, but executed and removed after the war.

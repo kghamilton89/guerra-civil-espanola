@@ -29,7 +29,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 60
+			popularity = 30
 		}
 
 		fascism = {
@@ -37,8 +37,12 @@ set_politics = {
 		}
 		
 		communism = {
-			popularity = 10
+			popularity = 25
 		}
+
+		neutrality = { 
+			popularity = 15
+		}		
 	}
 	
 	ruling_party = democratic
