@@ -1,5 +1,5 @@
 ﻿###########################
-# Spanish Events
+# Guerra Civil Española Spain Events
 ###########################
 
 add_namespace = spain
@@ -22,7 +22,7 @@ country_event = {
 	}
 
 	mean_time_to_happen = {
-		days = 151	# Historical outbreak time after elections
+		days = 100	# Historical outbreak time after elections
 	}
 	
 	option = { # Support Nationalists
@@ -398,7 +398,7 @@ country_event = {
 	}
 
 	mean_time_to_happen = {
-		days = 151	# Historical outbreak time after elections
+		days = 100	# Historical outbreak time after elections
 	}
 	
 	option = { # Support Nationalists
@@ -457,8 +457,8 @@ country_event = {
 					has_government = fascism
 				}
 				set_equipment_fraction = 0.7
-				set_stability = 0.9
-				set_war_support = 0.8
+				set_stability = 0.7
+				set_war_support = 0.7
 				load_oob = "SPA_Civil_War"
 			}
 			news_event = { hours = 6 id = news.63 }
