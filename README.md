@@ -6,7 +6,7 @@
 
 Overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War in [Hearts of Iron IV](https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki).
 
-### Timeline
+### Scenarios
 
   * **The Birth of the Second Republic** (September 12, 1931): The Spanish Constitution of 1931 is signed. King Alfonso XIII has abdicated and fled to France. Manuel Azaña Díaz has been given control of a minority government with the desperate goal of securing control of the fledging Republic.
 
