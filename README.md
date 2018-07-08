@@ -18,7 +18,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 ### Interface
 
-* Topical [Load screen](images/loadscreen-images/README.md) images and [quotes](shared/spanish-civil-war-quotes.md).
+* Topical loadscreen [images](images/loadscreen-images/README.md) and [quotes](shared/spanish-civil-war-quotes.md).
 
 * Communist Spain flies the [Workers' Party of Marxist Unification](https://en.wikipedia.org/wiki/POUM) (P.O.U.M.) flag.
 
