@@ -15,7 +15,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
   * **A House of Cards** (January 1, 1936): The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military is considering their own intervention.
 
-   ![](./images/scenario-images/select_date_1939.png)
+    ![](./images/scenario-images/select_date_1939.png)
 
 * Communist Spain flies the [Workers' Party of Marxist](https://en.wikipedia.org/wiki/POUM) (P.O.U.M.) Unification flag.
 
