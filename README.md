@@ -17,7 +17,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
     ![](./images/scenario-images/select_date_1939.png)
 
-* Communist Spain flies the [Workers' Party of Marxist](https://en.wikipedia.org/wiki/POUM) (P.O.U.M.) Unification flag.
+* Communist Spain flies the [Workers' Party of Marxist](https://en.wikipedia.org/wiki/POUM) Unification (P.O.U.M.) flag.
 
    ![](./images/poum-flag.png)
   
@@ -51,7 +51,7 @@ If you do not have a `/mod` or `\mod` directory at the appropriate location, you
 
 On the **Mods** tab and click **Create New Mod**. Name the mod **Guerra Civil Española** and create a subdirectory named `guerra-civil-espanola`.
 
-Clone `guerra-civil-espanola` repository into the defined directory. Select **Guerra Civil Española** on the **Mods** tab when you launch Hearts of Iron 4.
+Clone `guerra-civil-espanola` repository into the defined directory. Select **Guerra Civil Española** on the **Mods** tab when you launch Hearts of Iron IV.
 
 ![](./images/homescreen.png)
 
