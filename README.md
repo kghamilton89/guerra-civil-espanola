@@ -49,7 +49,7 @@ Store `.mod` files in the applicable directory:
 
 If you do not have a `/mod` or `\mod` directory at the appropriate location, you need to create one.
 
-On the **Mods** tab and click **Create New Mod**. Name the mod **Guerra Civil Española** and create a subdirectory named `guerra-civil-espanola`.
+On the **Mods** tab, click **Mod Tools**, then **Create New Mod**. Name the mod **Guerra Civil Española** and create a subdirectory named `guerra-civil-espanola`.
 
 Clone `guerra-civil-espanola` repository into the defined directory. Select **Guerra Civil Española** on the **Mods** tab when you launch Hearts of Iron IV.
 
