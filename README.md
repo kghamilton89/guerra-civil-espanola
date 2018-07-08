@@ -37,7 +37,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
   * Reignite [pennisular war](https://en.wikipedia.org/wiki/Peninsular_War) goals against Portugal regardless of allegiance.
   * Choose the third option: Stage a democratic uprising after the Civil War.
 * World War II participation is historical, joining a belligerent faction results in a declaration of war and invasion.
-* Balance improved so that war continues until 1939.
+* War continues until you secure control of the state.
 * Historical national advisors:
   * [Manuel Hedilla](https://en.wikipedia.org/wiki/Manuel_Hedilla): Increases Facist support, decreases national unity.
   * [Lluís Companys](https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys): More radically increases democratic support, but executed and removed after the war.
