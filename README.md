@@ -17,7 +17,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
     ![](./images/scenario-images/select_date_1939.png)
 
-* Communist Spain flies the [Workers' Party of Marxist](https://en.wikipedia.org/wiki/POUM) Unification (P.O.U.M.) flag.
+* Communist Spain flies the [Workers' Party of Marxist Unification](https://en.wikipedia.org/wiki/POUM) (P.O.U.M.) flag.
 
    ![](./images/poum-flag.png)
   
