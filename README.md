@@ -4,10 +4,6 @@
 
 ## Features
 
-* Overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War in [Hearts of Iron IV](https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki).
-
-* Topical [Load screen](images/loadscreen-images/README.md) images and [quotes](shared/spanish-civil-war-quotes.md).
-
 ### Timeline
 
   * **The Birth of the Second Republic** (September 12, 1931): The Spanish Constitution of 1931 is signed. King Alfonso XIII has abdicated and fled to France. Manuel Azaña Díaz has been given control of a minority government with the desperate goal of securing control of the fledging Republic.
@@ -19,6 +15,10 @@
     ![](./images/scenario-images/select_date_1939.png)
 
 ### Interface
+
+* Overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War in [Hearts of Iron IV](https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki).
+
+* Topical [Load screen](images/loadscreen-images/README.md) images and [quotes](shared/spanish-civil-war-quotes.md).
 
 * Communist Spain flies the [Workers' Party of Marxist Unification](https://en.wikipedia.org/wiki/POUM) (P.O.U.M.) flag.
 
