@@ -24,7 +24,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
    ![](./images/poum-flag.png)
   
-* Facist Spain flies the [Traditionalist Spanish Phalanx and the Councils of the National Syndicalist Offensive](https://en.wikipedia.org/wiki/FET_y_de_las_JONS) (FET y de las JONS) flag.
+* Facist Spain flies the [Spanish Phalanx of the Councils of the National-Syndicalist Offensive](https://en.wikipedia.org/wiki/Falange_Espa%C3%B1ola_de_las_JONS) (FET de las JONS) flag.
 
    ![](./images/fe-jons-flag.png)
    
