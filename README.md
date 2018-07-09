@@ -20,8 +20,6 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 * Topical loadscreen [images](images/loadscreen-images/README.md) and [quotes](shared/spanish-civil-war-quotes.md).
 
-* Communist Spain flies the [Workers' Party of Marxist Unification](https://en.wikipedia.org/wiki/POUM) (P.O.U.M.) flag.
-
  Republican | Non-Aligned | Communist | Facist
  :--:|:--:|:--:|:--:
  ![](./images/second-republic-flag.png) | ![](./images/carlist-flag.png) | ![](./images/poum-flag.png) | ![](./images/fe-jons-flag.png) |
