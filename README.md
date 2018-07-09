@@ -22,7 +22,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 #### Historical Flags
 
- Republican | Non-Aligned | Communist | Facist
+ Republican Spain | Unaligned Party | Communist | Facist
  :--:|:--:|:--:|:--:
  ![](./images/second-republic-flag.png) | ![](./images/carlist-flag.png) | ![](./images/poum-flag.png) | ![](./images/fe-jons-flag.png) |
  [Second Spanish Republic](https://en.wikipedia.org/wiki/Second_Spanish_Republic) | [Carlist Party](https://en.wikipedia.org/wiki/Carlism) | [Workers' Party of Marxist Unification](https://en.wikipedia.org/wiki/POUM) (P.O.U.M.) | [Spanish Phalanx of the Councils of the National-Syndicalist Offensive](https://en.wikipedia.org/wiki/Falange_Espa%C3%B1ola_de_las_JONS) (FET de las JONS)
