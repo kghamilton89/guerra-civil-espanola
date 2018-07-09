@@ -22,20 +22,11 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 * Communist Spain flies the [Workers' Party of Marxist Unification](https://en.wikipedia.org/wiki/POUM) (P.O.U.M.) flag.
 
-   ![](./images/poum-flag.png)
-  
-* Facist Spain flies the [Spanish Phalanx of the Councils of the National-Syndicalist Offensive](https://en.wikipedia.org/wiki/Falange_Espa%C3%B1ola_de_las_JONS) (FET de las JONS) flag.
-
-   ![](./images/fe-jons-flag.png)
-
-* Non-aligned Spain flies the [Carlist](https://en.wikipedia.org/wiki/Carlism) flag.
-
-    ![](./images/carlist-flag.png)
-
-* The Second Spanish Republic flies the [Republican](https://en.wikipedia.org/wiki/Second_Spanish_Republic) flag.
-
-    ![](./images/second-republic-flag.png)
-
+ Republican | Non-Aligned | Communist | Facist
+ :--:|:--:|:--:|:--:
+ ![](./images/second-republic-flag.png) | ![](./images/carlist-flag.png) | ![](./images/poum-flag.png) | ![](./images/fe-jons-flag.png) |
+ [Second Spanish Republic](https://en.wikipedia.org/wiki/Second_Spanish_Republic) | [Carlist Party](https://en.wikipedia.org/wiki/Carlism) | [Workers' Party of Marxist Unification](https://en.wikipedia.org/wiki/POUM) (P.O.U.M.) | [Spanish Phalanx of the Councils of the National-Syndicalist Offensive](https://en.wikipedia.org/wiki/Falange_Espa%C3%B1ola_de_las_JONS) (FET de las JONS)
+ 
 ### Gameplay
   
 * [Generic National Focus Tree](https://hoi4.paradoxwikis.com/Generic_national_focus_tree) replaced with historic events:
