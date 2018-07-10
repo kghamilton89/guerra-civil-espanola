@@ -8,13 +8,17 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 ### Scenarios
 
-* **The Birth of the Second Republic** (September 12, 1931): The Spanish Constitution of 1931 is signed. King Alfonso XIII has abdicated and fled to France. Manuel Azaña Díaz has been given control of a minority government with the desperate goal of securing control of the fledging Republic.
+### The Birth of the Second Republic - September 12, 1931
 
-    ![](./images/scenario-images/select_date_1936.png)
+![](./images/scenario-images/select_date_1936.png)
 
-* **A House of Cards** (January 1, 1936): The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military is considering their own intervention.
+The Spanish Constitution of 1931 is signed. King Alfonso XIII has abdicated and fled to France. Manuel Azaña Díaz has been given control of a minority government with the desperate goal of securing control of the fledging Republic.
 
-    ![](./images/scenario-images/select_date_1939.png)
+### A House of Cards - January 1, 1936
+
+![](./images/scenario-images/select_date_1939.png)
+
+The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds the reigns of power but only just. Leftist populism is at a fever pitch and the military is considering their own intervention.
 
 ### Interface
 
@@ -22,7 +26,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 #### Historical Flags and Leaders
 
-Although [Partido Comunista de España](https://en.wikipedia.org/wiki/Communist_Party_of_Spain) was the largest of the leftist factions, the Partido Obrero de Unificación Marxista (POUM) is the Communist faction in this mod. This is both a historical and aesthetic decision: POUM was responsible for more military action than the PCE, although their numbers were smaller. Additionaly, POUM forces also included anarchist fighters from the [Confederación Nacional del Trabajo](https://en.wikipedia.org/wiki/Confederaci%C3%B3n_Nacional_del_Trabajo#The_Civil_War), who were together attacked repeatedly by temporary coalitions of PCE and Falangist forces.
+Although [Partido Comunista de España](https://en.wikipedia.org/wiki/Communist_Party_of_Spain) was the largest faction of the [Popular Front](https://en.wikipedia.org/wiki/Popular_Front_(Spain)), the Partido Obrero de Unificación Marxista (POUM) is the Communist faction in this mod. This is both a historical and aesthetic decision. POUM was responsible for more military action than the PCE, although their numbers were smaller. Additionaly, POUM forces also included anarchist fighters from the [Confederación Nacional del Trabajo](https://en.wikipedia.org/wiki/Confederaci%C3%B3n_Nacional_del_Trabajo#The_Civil_War), who were together attacked repeatedly by temporary coalitions of PCE and Falangist forces.
 
  Republican | Non-Aligned | Communist | Facist
  :--:|:--:|:--:|:--:
