@@ -26,7 +26,7 @@ Topical loadscreen [images](images/loadscreen-images/README.md) and [quotes](sha
 
 #### Historical Flags and Leaders
 
-Although [Partido Comunista de España](https://en.wikipedia.org/wiki/Communist_Party_of_Spain) was the largest faction of the [Popular Front](https://en.wikipedia.org/wiki/Popular_Front_(Spain)), the Partido Obrero de Unificación Marxista (POUM) is the Communist faction in this mod. This is both a historical and aesthetic decision. POUM was responsible for more military action than the PCE, although their numbers were smaller. Additionaly, POUM forces also included anarchist fighters from the [Confederación Nacional del Trabajo](https://en.wikipedia.org/wiki/Confederaci%C3%B3n_Nacional_del_Trabajo#The_Civil_War), who were together attacked repeatedly by temporary coalitions of PCE and Falangist forces.
+Although [Partido Comunista de España](https://en.wikipedia.org/wiki/Communist_Party_of_Spain) was the largest faction of the [Popular Front](https://en.wikipedia.org/wiki/Popular_Front_(Spain)), the Partido Obrero de Unificación Marxista (POUM) is the Communist faction in this mod. This is both a historical and aesthetic decision. POUM was responsible for more military action than the PCE, and POUM forces included extreme leftist factions such as anarchist fighters from the [Confederación Nacional del Trabajo](https://en.wikipedia.org/wiki/Confederaci%C3%B3n_Nacional_del_Trabajo#The_Civil_War). POUM divisions were attacked repeatedly by temporary coalitions of PCE and Falangist forces.
 
  Republican | Non-Aligned | Communist | Facist
  :--:|:--:|:--:|:--:
