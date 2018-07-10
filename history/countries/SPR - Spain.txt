@@ -153,9 +153,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "José Díaz"
-	desc = "POLITICS_JOSE_DIAZ_DESC"
-	picture = "Portrait_Spain_Jose_Diaz.dds"
+	name = "Andrés Nin Pérez"
+	desc = "Pérez came from humble beginnings. An early member of the Soviet-backed PCE, he soon discovered ideological differences with its leadership and sought a different road to Communism, dabbling with Trotskyism before founding the POUM."
+	picture = "Portrait_Spain_Andres_Perez.dds"
 	expire = "1965.1.1"
 	ideology = stalinism
 	traits = {
@@ -175,9 +175,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Alejandro Lerroux"
-	desc = "POLITICS_ALEJANDRO_LERROUX_DESC"
-	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+	name = "Ignacio Baleztena Ascárate"
+	desc = "The Carlist Party ultimately seeks the restoration of the Spanish Monarch but has made an uneasy truce with Franco and the Falange in hopes of restoring stability to Spain."
+	picture = "Portrait_Spain_Ignacio_Ascarate.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {

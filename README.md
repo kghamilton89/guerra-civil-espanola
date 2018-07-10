@@ -20,12 +20,16 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 * Topical loadscreen [images](images/loadscreen-images/README.md) and [quotes](shared/spanish-civil-war-quotes.md).
 
-#### Historical Flags
+#### Historical Flags and Leaders
+
+Although [Partido Comunista de España](https://en.wikipedia.org/wiki/Communist_Party_of_Spain) was the largest of the leftist factions, the Partido Obrero de Unificación Marxista (POUM) is the Communist faction in this mod. This is both a historical and aesthetic decision: POUM was responsible for more military action than the PCE, although their numbers were smaller. Additionaly, POUM forces also included anarchist fighters from the [Confederación Nacional del Trabajo](https://en.wikipedia.org/wiki/Confederaci%C3%B3n_Nacional_del_Trabajo#The_Civil_War), who were together attacked repeatedly by temporary coalitions of PCE and Falangist forces.
 
  Republican | Non-Aligned | Communist | Facist
  :--:|:--:|:--:|:--:
  ![](./images/second-republic-flag.png) | ![](./images/carlist-flag.png) | ![](./images/poum-flag.png) | ![](./images/fe-jons-flag.png) |
  [Second Spanish Republic](https://en.wikipedia.org/wiki/Second_Spanish_Republic) | [Carlist Party](https://en.wikipedia.org/wiki/Carlism) | [Workers' Party of Marxist Unification](https://en.wikipedia.org/wiki/POUM) | [Spanish Phalanx of the Councils of the National-Syndicalist Offensive](https://en.wikipedia.org/wiki/Falange_Espa%C3%B1ola_de_las_JONS)
+ ![](./images/leader-manual.png) | ![](./images/leader-ignacio.png) | ![](./images/leader-andres.png) | ![](./images/leader-francisco.png)
+[Manuel Azaña](https://en.wikipedia.org/wiki/Manuel_Aza%C3%B1a) | [Ignacio Baleztena Ascárate](https://en.wikipedia.org/wiki/Ignacio_Baleztena_Asc%C3%A1rate) | [Andrés Nin Pérez](https://en.wikipedia.org/wiki/Andr%C3%A9s_Nin_P%C3%A9rez) | [Francisco Franco](https://en.wikipedia.org/wiki/Francisco_Franco)
  
 ### Gameplay
   
