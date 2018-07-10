@@ -8,13 +8,13 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 ### Scenarios
 
-### The Birth of the Second Republic - September 12, 1931
+#### The Birth of the Second Republic - September 12, 1931
 
 ![](./images/scenario-images/select_date_1936.png)
 
 The Spanish Constitution of 1931 is signed. King Alfonso XIII has abdicated and fled to France. Manuel Azaña Díaz has been given control of a minority government with the desperate goal of securing control of the fledging Republic.
 
-### A House of Cards - January 1, 1936
+#### A House of Cards - January 1, 1936
 
 ![](./images/scenario-images/select_date_1939.png)
 
@@ -22,7 +22,7 @@ The 1936 elections are a month and a half away. Manuel Azaña Díaz still holds 
 
 ### Interface
 
-* Topical loadscreen [images](images/loadscreen-images/README.md) and [quotes](shared/spanish-civil-war-quotes.md).
+Topical loadscreen [images](images/loadscreen-images/README.md) and [quotes](shared/spanish-civil-war-quotes.md).
 
 #### Historical Flags and Leaders
 
