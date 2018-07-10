@@ -12,7 +12,7 @@ Overhaul of Spain to improve gameplay and historical accuracy during the Spanish
 
 ![](./images/scenario-images/select_date_1936.png)
 
-The Spanish Constitution of 1931 is signed. King Alfonso XIII has abdicated and fled to France. Manuel Azaña Díaz has been given control of a minority government with the desperate goal of securing control of the fledging Republic.
+The Spanish Constitution of 1931 is signed. King Alfonso XIII has abdicated and fled to France. Manuel Azaña Díaz has been given control of a minority government with the desperate goal of securing the fledging Republic.
 
 #### A House of Cards - January 1, 1936
 
