@@ -14,7 +14,7 @@ focus_tree = {
 	reset_on_civilwar = no
 
 	focus = {
-		id = expand_the_military-industrial_complex
+		id = "Strengthen the Military"
 		icon = GFX_goal_generic_allies_build_infantry
 		x = 1
 		y = 0
@@ -34,7 +34,7 @@ focus_tree = {
 	}
 
 	focus = {
-		id = occupy_alcazar_fortress
+		id = "Occupy Alcazar Fortress"
 		icon = GFX_goal_generic_fortify_city
 		prerequisite = { focus = expand_the_military-industrial_complex }
 		x = -1
