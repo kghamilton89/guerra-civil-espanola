@@ -32,7 +32,7 @@ Although [Partido Comunista de España](https://en.wikipedia.org/wiki/Communist_
  :--:|:--:|:--:|:--:
  ![](./images/second-republic-flag.png) | ![](./images/carlist-flag.png) | ![](./images/poum-flag.png) | ![](./images/fe-jons-flag.png) |
  [Second Spanish Republic](https://en.wikipedia.org/wiki/Second_Spanish_Republic) | [Carlist Party](https://en.wikipedia.org/wiki/Carlism) | [Workers' Party of Marxist Unification](https://en.wikipedia.org/wiki/POUM) | [Spanish Phalanx of the Councils of the National-Syndicalist Offensive](https://en.wikipedia.org/wiki/Falange_Espa%C3%B1ola_de_las_JONS)
- ![](./images/leader-manual.png) | ![](./images/leader-alfonso.png) | ![](./images/leader-andres.png) | ![](./images/leader-francisco.png)
+ ![](./images/leader-manual.png) | ![](./images/leader-alfonso-xiii.png) | ![](./images/leader-andres.png) | ![](./images/leader-francisco.png)
 [Manuel Azaña](https://en.wikipedia.org/wiki/Manuel_Aza%C3%B1a) | [King Alfonso XIII](https://en.wikipedia.org/wiki/Alfonso_XIII_of_Spain) | [Andrés Nin Pérez](https://en.wikipedia.org/wiki/Andr%C3%A9s_Nin_P%C3%A9rez) | [Francisco Franco](https://en.wikipedia.org/wiki/Francisco_Franco)
  
 ### Gameplay
