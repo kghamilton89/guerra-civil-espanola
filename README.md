@@ -49,6 +49,11 @@ Although [Partido Comunista de España](https://en.wikipedia.org/wiki/Communist_
   * [Manuel Hedilla](https://en.wikipedia.org/wiki/Manuel_Hedilla): Increases Facist support, decreases national unity.
   * [Lluís Companys](https://en.wikipedia.org/wiki/Llu%C3%ADs_Companys): More radically increases democratic support, but executed and removed after the war.
   
+### Balance
+
+* This mod is designed assuming the user plays as Spain. Thus, to negate the effects of advancing the timeline five years into the past, the first National Focus selected by all other countries lasts three years instead of 70 days.
+* Vanilla troop counts are reduced to account for timeline shift.
+  
 > Raise an [issue](https://github.com/kghamilton89/guerra-civil-espanola/issues/new) to report crashes or bugs.
 
 ## Download Instructions
