@@ -2,6 +2,8 @@
 
 ![](./images/spanish-civil-war.png)
 
+> While the authors of this mod certainly encourage fans of esoteric Spainish Civil War history Easter Eggs to continue to engage with this repository, `latest` releases of HOI IV have largely rendered this mod unneeded to enjoy a more complex Spain playthrough.
+
 ## Features
 
 Overhaul of Spain to improve gameplay and historical accuracy during the Spanish Civil War in [Hearts of Iron IV](https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki).
